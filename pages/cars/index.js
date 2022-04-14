@@ -20,6 +20,9 @@ export default function CarsList(props) {
           <li>
             <Link href="/cars/lambo"><a>Lambo</a></Link>
           </li>
+          <li>
+            <Link href="/cars/vw"><a>Volkswagen</a></Link>
+          </li>
         </ul>
         </main>
     </div>
